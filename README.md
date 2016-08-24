@@ -9,6 +9,10 @@ Push Notification Tutorial, Creating a Basic Push notification app with server s
 
 Creating Storboard Custom Segues - http://jeffreysambells.com/2014/02/19/dismissing-a-modal-view-using-a-storyboard-segue
 
+UIViewController Transitions - https://www.raywenderlich.com/110536/custom-uiviewcontroller-transitions
+
+Custom UIViewController Transistions - https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/CustomizingtheTransitionAnimations.html
+
 # Crontabs
 
 Crontab in Linux with 20 Useful Examples to Schedule Jobs - http://tecadmin.net/crontab-in-linux-with-20-examples-of-cron-schedule/
