@@ -13,6 +13,8 @@ UIViewController Transitions - https://www.raywenderlich.com/110536/custom-uivie
 
 Custom UIViewController Transistions - https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/CustomizingtheTransitionAnimations.html
 
+Creating Libraries using Xcode - http://www.blog.montgomerie.net/easy-xcode-static-library-subprojects-and-submodules
+
 # Crontabs
 
 Crontab in Linux with 20 Useful Examples to Schedule Jobs - http://tecadmin.net/crontab-in-linux-with-20-examples-of-cron-schedule/
