@@ -15,6 +15,8 @@ Custom UIViewController Transistions - https://developer.apple.com/library/ios/f
 
 Creating Libraries using Xcode - http://www.blog.montgomerie.net/easy-xcode-static-library-subprojects-and-submodules
 
+Closure and their Syntax (A really frustated developer made a very quick way to copy, paste and create closures) - http://fuckingclosuresyntax.com/
+
 # Crontabs
 
 Crontab in Linux with 20 Useful Examples to Schedule Jobs - http://tecadmin.net/crontab-in-linux-with-20-examples-of-cron-schedule/
