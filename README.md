@@ -1,4 +1,5 @@
-# ExtremelyUsefulProgrammingThreads
+# Extremely Useful Programming Threads
+
 A collection of great useful links that helps me in everyday programming
 
 #iOS
