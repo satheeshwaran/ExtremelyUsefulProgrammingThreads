@@ -17,6 +17,11 @@ Creating Libraries using Xcode - http://www.blog.montgomerie.net/easy-xcode-stat
 
 Closure and their Syntax (A really frustated developer made a very quick way to copy, paste and create closures) - http://fuckingclosuresyntax.com/
 
+#Android
+ 
+Unlock Android Phone without touch screen using ADB -  https://github.com/mattwilson1024/android-pattern-unlock/blob/master/unlock.sh
+
+
 # Crontabs
 
 Crontab in Linux with 20 Useful Examples to Schedule Jobs - http://tecadmin.net/crontab-in-linux-with-20-examples-of-cron-schedule/
@@ -24,3 +29,9 @@ Crontab in Linux with 20 Useful Examples to Schedule Jobs - http://tecadmin.net/
 #Curl
 
 Setting SSL certificate with a password that contains an exclamation (!) in CURL - http://stackoverflow.com/questions/11444347/curl-exclamation-mark-in-user-auth-password
+
+#Security and SSL
+
+What is CSRF? - http://stackoverflow.com/questions/5207160/what-is-a-csrf-token-what-is-its-importance-and-how-does-it-work
+
+
