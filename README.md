@@ -22,6 +22,7 @@ Closure and their Syntax (A really frustated developer made a very quick way to 
  
 Unlock Android Phone without touch screen using ADB -  https://github.com/mattwilson1024/android-pattern-unlock/blob/master/unlock.sh
 
+Android autocomplete with AutoCompleteTextView - https://akshaymukadam.wordpress.com/2015/02/01/how-to-create-autocompletetextview-using-custom-filter-implementation/
 
 # Crontabs
 
