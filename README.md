@@ -18,6 +18,8 @@ Creating Libraries using Xcode - http://www.blog.montgomerie.net/easy-xcode-stat
 
 Closure and their Syntax (A really frustated developer made a very quick way to copy, paste and create closures) - http://fuckingclosuresyntax.com/
 
+Adding stored properties in Swift, just the way we did in Objective C- http://stackoverflow.com/questions/25426780/how-to-have-stored-properties-in-swift-the-same-way-i-had-on-objective-c
+
 #Android
  
 Unlock Android Phone without touch screen using ADB -  https://github.com/mattwilson1024/android-pattern-unlock/blob/master/unlock.sh
