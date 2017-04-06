@@ -38,4 +38,13 @@ Setting SSL certificate with a password that contains an exclamation (!) in CURL
 
 What is CSRF? - http://stackoverflow.com/questions/5207160/what-is-a-csrf-token-what-is-its-importance-and-how-does-it-work
 
+#Mac Recovery
+
+Reset NVRAM - https://support.apple.com/en-in/HT204063
+
+Reset SMC - https://support.apple.com/en-in/HT201295
+
+Stuck Disk utility - http://apple.stackexchange.com/questions/238918/disk-utility-recovery-mode-stuck-at-loading/269850#269850?newreg=a91cc4cd421243979b6c4eaace3b9474
+
+Stuck Disk utility - https://discussions.apple.com/thread/7281543?start=0&tstart=0
 
