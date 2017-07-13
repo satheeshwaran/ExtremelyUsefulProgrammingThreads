@@ -20,6 +20,11 @@ Closure and their Syntax (A really frustated developer made a very quick way to 
 
 Adding stored properties in Swift, just the way we did in Objective C- http://stackoverflow.com/questions/25426780/how-to-have-stored-properties-in-swift-the-same-way-i-had-on-objective-c
 
+Send push notifications - https://github.com/noodlewerk/NWPusher
+
+OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
+
+
 #Android
  
 Unlock Android Phone without touch screen using ADB -  https://github.com/mattwilson1024/android-pattern-unlock/blob/master/unlock.sh
