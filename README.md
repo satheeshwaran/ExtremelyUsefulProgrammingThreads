@@ -2,7 +2,7 @@
 
 A collection of great useful links that helps me in everyday programming
 
-#iOS
+# iOS
 
 A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects - https://github.com/vsouza/awesome-ios
 
@@ -24,8 +24,9 @@ Send push notifications - https://github.com/noodlewerk/NWPusher
 
 OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
 
+Universal links server setup - https://gist.github.com/anhar/6d50c023f442fb2437e1
 
-#Android
+# Android
  
 Unlock Android Phone without touch screen using ADB -  https://github.com/mattwilson1024/android-pattern-unlock/blob/master/unlock.sh
 
@@ -39,11 +40,11 @@ Crontab in Linux with 20 Useful Examples to Schedule Jobs - http://tecadmin.net/
 
 Setting SSL certificate with a password that contains an exclamation (!) in CURL - http://stackoverflow.com/questions/11444347/curl-exclamation-mark-in-user-auth-password
 
-#Security and SSL
+# Security and SSL
 
 What is CSRF? - http://stackoverflow.com/questions/5207160/what-is-a-csrf-token-what-is-its-importance-and-how-does-it-work
 
-#Mac Recovery
+# Mac Recovery
 
 Reset NVRAM - https://support.apple.com/en-in/HT204063
 
