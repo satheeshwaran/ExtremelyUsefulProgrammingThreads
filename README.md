@@ -32,6 +32,8 @@ Unlock Android Phone without touch screen using ADB -  https://github.com/mattwi
 
 Android autocomplete with AutoCompleteTextView - https://akshaymukadam.wordpress.com/2015/02/01/how-to-create-autocompletetextview-using-custom-filter-implementation/
 
+Android APK Decompile - https://blog.bramp.net/post/2015/08/01/decompile-and-recompile-android-apk/
+
 # Crontabs
 
 Crontab in Linux with 20 Useful Examples to Schedule Jobs - http://tecadmin.net/crontab-in-linux-with-20-examples-of-cron-schedule/
