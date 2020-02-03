@@ -58,7 +58,11 @@ Stuck Disk utility - https://discussions.apple.com/thread/7281543?start=0&tstart
 
 # Git
 
-Finding author of branches - git for-each-ref --format='%(color:cyan)%(authordate:format:%m/%d/%Y %I:%M %p) %(align:25,left)%(color:yellow)%(authorname)%(end) %(color:reset)%(refname:strip=3)' --sort=authordate refs/remotes
+Finding author of branches - 
+
+```
+git for-each-ref --format='%(color:cyan)%(authordate:format:%m/%d/%Y %I:%M %p) %(align:25,left)%(color:yellow)%(authorname)%(end) %(color:reset)%(refname:strip=3)' --sort=authordate refs/remotes
+```
 
 # Node.js & npm
 
