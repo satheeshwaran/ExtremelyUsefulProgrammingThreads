@@ -26,6 +26,8 @@ OS X and iOS application and framework to play with the Apple Push Notification 
 
 Universal links server setup - https://gist.github.com/anhar/6d50c023f442fb2437e1
 
+iOS IPA decompile/recompile - https://labs.f-secure.com/blog/repacking-and-resigning-ios-applications/
+
 # Android
  
 Unlock Android Phone without touch screen using ADB -  https://github.com/mattwilson1024/android-pattern-unlock/blob/master/unlock.sh
