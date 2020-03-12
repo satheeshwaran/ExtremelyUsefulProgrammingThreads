@@ -70,4 +70,7 @@ git for-each-ref --format='%(color:cyan)%(authordate:format:%m/%d/%Y %I:%M %p) %
 
 Speed up npm install - https://winsmarts.com/npm-install-speed-up-by-3-times-almost-25ad416cf77e
 
+Multiple versions of node.js and npm on mac/linux - https://github.com/nvm-sh/nvm
+
+Multiple versions of node.js and npm on windows - https://github.com/coreybutler/nvm-windows
 
