@@ -74,3 +74,4 @@ Multiple versions of node.js and npm on mac/linux - https://github.com/nvm-sh/nv
 
 Multiple versions of node.js and npm on windows - https://github.com/coreybutler/nvm-windows
 
+Npm only upgrade or downgrade on windows - https://www.npmjs.com/package/npm-windows-upgrade
